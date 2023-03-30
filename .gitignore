@@ -1,3 +1,4 @@
 app/data/ml-25m/
-*.csv
+*.png
+*.DS_Store
 *.json
