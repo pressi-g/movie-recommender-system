@@ -1,5 +1,3 @@
-# folders
-data/
 app/data/ml-25m/
 *.csv
 *.json
