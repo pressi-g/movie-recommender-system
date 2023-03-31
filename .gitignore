@@ -2,3 +2,5 @@ app/data/ml-25m/
 *.png
 *.DS_Store
 *.json
+app/notebooks/Movie Recommender System.ipynb
+app/notebooks/Movie_lens_25m.ipynb
