@@ -4,3 +4,8 @@ app/data/ml-25m/
 *.json
 app/notebooks/Movie Recommender System.ipynb
 app/notebooks/Movie_lens_25m.ipynb
+app/data/*.npy
+*.npy
+*.csv
+*.ipynb_checkpoints
+*.pyc
