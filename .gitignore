@@ -1,11 +1,9 @@
 app/data/ml-25m/
+app/data/ml-latest-small/
 *.png
 *.DS_Store
 *.json
-app/notebooks/Movie Recommender System.ipynb
-app/notebooks/Movie_lens_25m.ipynb
 app/data/*.npy
 *.npy
-*.csv
 *.ipynb_checkpoints
 *.pyc
