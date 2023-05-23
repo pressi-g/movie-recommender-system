@@ -7,3 +7,5 @@ app/data/*.npy
 *.npy
 *.ipynb_checkpoints
 *.pyc
+app/notebooks/EDA_small_dataset.ipynb
+app/notebooks/EDA copy.ipynb
